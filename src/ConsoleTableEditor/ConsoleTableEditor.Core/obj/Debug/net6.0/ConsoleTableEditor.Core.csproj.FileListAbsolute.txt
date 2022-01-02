@@ -1,0 +1,12 @@
+D:\Projects\ConsoleTableEditor\src\ConsoleTableEditor\ConsoleTableEditor.Core\bin\Debug\net6.0\ConsoleTableEditor.Core.deps.json
+D:\Projects\ConsoleTableEditor\src\ConsoleTableEditor\ConsoleTableEditor.Core\bin\Debug\net6.0\ConsoleTableEditor.Core.dll
+D:\Projects\ConsoleTableEditor\src\ConsoleTableEditor\ConsoleTableEditor.Core\bin\Debug\net6.0\ref\ConsoleTableEditor.Core.dll
+D:\Projects\ConsoleTableEditor\src\ConsoleTableEditor\ConsoleTableEditor.Core\bin\Debug\net6.0\ConsoleTableEditor.Core.pdb
+D:\Projects\ConsoleTableEditor\src\ConsoleTableEditor\ConsoleTableEditor.Core\obj\Debug\net6.0\ConsoleTableEditor.Core.csproj.AssemblyReference.cache
+D:\Projects\ConsoleTableEditor\src\ConsoleTableEditor\ConsoleTableEditor.Core\obj\Debug\net6.0\ConsoleTableEditor.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ConsoleTableEditor\src\ConsoleTableEditor\ConsoleTableEditor.Core\obj\Debug\net6.0\ConsoleTableEditor.Core.AssemblyInfoInputs.cache
+D:\Projects\ConsoleTableEditor\src\ConsoleTableEditor\ConsoleTableEditor.Core\obj\Debug\net6.0\ConsoleTableEditor.Core.AssemblyInfo.cs
+D:\Projects\ConsoleTableEditor\src\ConsoleTableEditor\ConsoleTableEditor.Core\obj\Debug\net6.0\ConsoleTableEditor.Core.csproj.CoreCompileInputs.cache
+D:\Projects\ConsoleTableEditor\src\ConsoleTableEditor\ConsoleTableEditor.Core\obj\Debug\net6.0\ConsoleTableEditor.Core.dll
+D:\Projects\ConsoleTableEditor\src\ConsoleTableEditor\ConsoleTableEditor.Core\obj\Debug\net6.0\ref\ConsoleTableEditor.Core.dll
+D:\Projects\ConsoleTableEditor\src\ConsoleTableEditor\ConsoleTableEditor.Core\obj\Debug\net6.0\ConsoleTableEditor.Core.pdb

@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleTableEditor", "Conso
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleTableEditor.Core", "ConsoleTableEditor.Core\ConsoleTableEditor.Core.csproj", "{61D511D2-0C7B-425E-83FB-517331998BF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmark", "Benchmark\Benchmark.csproj", "{99EEA4BC-A857-4E29-B8D2-4F79C51AB434}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{61D511D2-0C7B-425E-83FB-517331998BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61D511D2-0C7B-425E-83FB-517331998BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61D511D2-0C7B-425E-83FB-517331998BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99EEA4BC-A857-4E29-B8D2-4F79C51AB434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EEA4BC-A857-4E29-B8D2-4F79C51AB434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EEA4BC-A857-4E29-B8D2-4F79C51AB434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EEA4BC-A857-4E29-B8D2-4F79C51AB434}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
