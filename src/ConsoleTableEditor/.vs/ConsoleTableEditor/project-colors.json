@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b1483977-f70f-4202-8061-773647893503": {
+      "ProjectGuid": "b1483977-f70f-4202-8061-773647893503",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "ab4130f2-fe2d-47cc-a206-c37bfe28e5d5": {
+      "ProjectGuid": "ab4130f2-fe2d-47cc-a206-c37bfe28e5d5",
+      "DisplayName": "ConsoleTableEditor",
+      "ColorIndex": 1
+    },
+    "61d511d2-0c7b-425e-83fb-517331998bf6": {
+      "ProjectGuid": "61d511d2-0c7b-425e-83fb-517331998bf6",
+      "DisplayName": "ConsoleTableEditor.Core",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "99eea4bc-a857-4e29-b8d2-4f79c51ab434": {
+      "ProjectGuid": "99eea4bc-a857-4e29-b8d2-4f79c51ab434",
+      "DisplayName": "Benchmark",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
