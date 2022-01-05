@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleTableEditor", "ConsoleTableEditor\ConsoleTableEditor.csproj", "{AB4130F2-FE2D-47CC-A206-C37BFE28E5D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TableEditor.Console", "TableEditor.Console\TableEditor.Console.csproj", "{AB4130F2-FE2D-47CC-A206-C37BFE28E5D5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleTableEditor.Core", "ConsoleTableEditor.Core\ConsoleTableEditor.Core.csproj", "{61D511D2-0C7B-425E-83FB-517331998BF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TableEditor.Core", "TableEditor.Core\TableEditor.Core.csproj", "{61D511D2-0C7B-425E-83FB-517331998BF6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmark", "Benchmark\Benchmark.csproj", "{99EEA4BC-A857-4E29-B8D2-4F79C51AB434}"
 EndProject

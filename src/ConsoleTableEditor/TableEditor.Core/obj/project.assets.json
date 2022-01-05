@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\ConsoleTableEditor\\src\\ConsoleTableEditor\\ConsoleTableEditor.Core\\TableEditor.Core.csproj",
+      "projectUniqueName": "D:\\Projects\\ConsoleTableEditor\\src\\ConsoleTableEditor\\TableEditor.Core\\TableEditor.Core.csproj",
       "projectName": "TableEditor.Core",
-      "projectPath": "D:\\Projects\\ConsoleTableEditor\\src\\ConsoleTableEditor\\ConsoleTableEditor.Core\\TableEditor.Core.csproj",
+      "projectPath": "D:\\Projects\\ConsoleTableEditor\\src\\ConsoleTableEditor\\TableEditor.Core\\TableEditor.Core.csproj",
       "packagesPath": "C:\\Users\\matyu\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\ConsoleTableEditor\\src\\ConsoleTableEditor\\ConsoleTableEditor.Core\\obj\\",
+      "outputPath": "D:\\Projects\\ConsoleTableEditor\\src\\ConsoleTableEditor\\TableEditor.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
