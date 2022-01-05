@@ -3,3 +3,8 @@
 ################################################################################
 
 /src/ConsoleTableEditor/Benchmark
+/src/ConsoleTableEditor/.vs
+/src/ConsoleTableEditor/TableEditor.Core/obj
+/src/ConsoleTableEditor/TableEditor.Core/bin
+/src/ConsoleTableEditor/TableEditor.Console/obj
+/src/ConsoleTableEditor/TableEditor.Console/bin
