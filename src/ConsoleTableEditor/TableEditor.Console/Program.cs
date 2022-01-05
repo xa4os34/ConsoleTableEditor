@@ -1,7 +1,9 @@
 ﻿using System.Globalization;
 using System.Text;
 using TableEditor.Core;
-using String = TableEditor.Core.String;
+using TableEditor.Core.Tables;
+using TableEditor.Core.Tables.Decoration;
+using String = TableEditor.Core.Tables.ValueTypes.String;
 
 const int Width = 4;
 const int Height = 4;

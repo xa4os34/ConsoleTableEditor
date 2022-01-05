@@ -1,4 +1,7 @@
-﻿namespace TableEditor.Core.Tables;
+﻿using TableEditor.Core.Tables.Decoration;
+using TableEditor.Core.Tables.ValueTypes;
+
+namespace TableEditor.Core.Tables;
 
 public sealed class TableCell
 {
