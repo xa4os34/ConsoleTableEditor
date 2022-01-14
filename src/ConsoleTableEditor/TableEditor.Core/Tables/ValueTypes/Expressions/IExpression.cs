@@ -2,5 +2,5 @@
 
 public interface IExpression : IValue
 {
-
+    public void UpdateValue(IUpdateContext context);
 }

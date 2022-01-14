@@ -9,4 +9,9 @@ public sealed class Expression : IExpression
 
     public ValueType Type => ValueType.Expression;
     public object? Value { get; private set; }
+
+    public void UpdateValue(IUpdateContext context)
+    {
+        throw new NotImplementedException();
+    }
 }
